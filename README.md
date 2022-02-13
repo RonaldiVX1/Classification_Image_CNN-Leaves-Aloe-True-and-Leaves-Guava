@@ -1,0 +1,1 @@
+# Klasifikasi-CNN-Daun-Lidah-Buaya-dan-Daun-Jambu-Biji-
